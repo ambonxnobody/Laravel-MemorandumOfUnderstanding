@@ -7,7 +7,7 @@
 
 ## Laravel-MemorandumOfUnderstanding Open Source - Installation
 
-The requirements to Laravel MoU application is:
+The requirements to Laravel-MemorandumOfUnderstanding application is:
 
 - **PHP - Supported Versions**: >= 8.0
 - **Webserver**: Nginx or Apache
