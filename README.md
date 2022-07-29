@@ -16,8 +16,8 @@ The requirements to Laravel MoU application is:
 ### Git Clone
 
 ```
-$ git clone https://github.com/ambonxnobody/MemorandumOfUnderstanding.git
-$ cd MemorandumOfUnderstanding
+$ git clone https://github.com/ambonxnobody/Laravel-MemorandumOfUnderstanding.git
+$ cd Laravel-MemorandumOfUnderstanding
 $ composer update
 ```
 
@@ -57,14 +57,14 @@ DB_USERNAME=XXXX
 DB_PASSWORD=XXXXX
 ```
 
-**Remember**: Create the database for Laravel MoU before run artisan command.
+**Remember**: Create the database for Laravel-MemorandumOfUnderstanding before run artisan command.
 
 ```
 php artisan migrate --seed
 ```
 
 ```
-Application name: absensi
+Application name: Laravel-MemorandumOfUnderstanding
 Homepage URL: URL (Same as APP_URL at .env)
 ```
 
