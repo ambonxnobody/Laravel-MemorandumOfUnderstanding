@@ -17,7 +17,7 @@ The requirements to Laravel-MemorandumOfUnderstanding application is:
 
 ```
 $ git clone https://github.com/ambonxnobody/Laravel-MemorandumOfUnderstanding.git
-$ cd Laravel-MemorandumOfUnderstanding
+$ cd Laravel-MemorandumOfUnderstanding-main
 $ composer update
 ```
 
